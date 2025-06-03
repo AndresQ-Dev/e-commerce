@@ -45,7 +45,7 @@ body {
   margin: 0;
 }
 
-/* App Container */
+
 .app-container {
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -54,7 +54,7 @@ body {
   margin: 0 auto;
 }
 
-/* Product List */
+
 .product-list {
   background: white;
   padding: 1.5rem;
@@ -113,7 +113,7 @@ body {
   transform: translateY(1px);
 }
 
-/* Cart */
+
 .cart {
   background: white;
   padding: 1.5rem;
@@ -177,7 +177,7 @@ body {
   transform: translateY(1px);
 }
 
-/* Responsive */
+/* MEdias Query... */
 @media (max-width: 768px) {
   .app-container {
     grid-template-columns: 1fr;
